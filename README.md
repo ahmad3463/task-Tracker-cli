@@ -4,8 +4,8 @@ A simple **command-line task tracker** built in PHP.
 This tool allows you to add, update, delete, and manage tasks stored in a JSON file (`tasks.json`).
 
  Project Page
- git clone https://github.com/ahmad3463/task-Tracker-cli
- cd task-Tracker-cli
+
+ [cd task-Tracker-cli](https://roadmap.sh/projects/task-tracker)
 
  
  Features
